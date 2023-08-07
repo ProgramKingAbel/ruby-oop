@@ -19,8 +19,19 @@ class Animal
     @type
   end
 
+  def name
+    @name
+  end
+
   def name=(value)
     @name = value
+  end
+
+ def speak
+  if @type == "dog"
+   "Woof woof"
+  elsif @type == "spider"
+   "meaw"
   end 
 
 end
