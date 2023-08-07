@@ -33,5 +33,5 @@ class Animal
   elsif @type == "spider"
    "meaw"
   end 
-
+ end
 end
