@@ -10,4 +10,8 @@ class Dog < Animal
     "Here is your stick"
   end
 
+  def speak
+    "Woof, Woof"
+  end
+
 end
