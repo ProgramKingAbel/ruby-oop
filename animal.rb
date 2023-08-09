@@ -24,4 +24,5 @@ class Animal
 
   def likes_food?(food)
     @liked_food.is_liked?(food)
+  end
 end
