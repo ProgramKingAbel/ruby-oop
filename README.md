@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<h1><b>Morse Message</b></h1>
+<h1><b>OOP CONCEPTS</b></h1>
 
 </div>
 
@@ -29,7 +29,7 @@
 # 📖 Morse Message <a name="about-project"></a>
 
 
-**Morse Message** is a Ruby script that efficiently decodes Morse code messages, providing uppercase translations for characters and entire words.
+**OOP** This Repo explains the concepts of OOP that include Abstraction, Encapsulation, Polymorphism and Inheritance
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,7 +46,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Decodes Morse Code**
+- **OOP**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,7 +71,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/ProgramKingAbel/morse-message.git
+  git clone https://github.com/ProgramKingAbel/ruby-oop.git
 ```
 
 ### Install
@@ -114,17 +114,6 @@ To run tests, run the following command:
 - Twitter: [@CEOAbel1](https://twitter.com/CEOAbel1)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/abelmatundamorara-451340250)
 
-👤 **Sahalu Aminu**
-
-- GitHub: [@sahlminkok](https://github.com/sahlminkok)
-- Twitter: [@sahlminkok](https://twitter.com/sahlminkok)
-- LinkedIn: [sahlminkok](https://linkedin.com/in/sahlminkok)
-
-👤 **Okongo Derrick**
-    
-- GitHub: [@derrick14](https://github.com/derrick1451)
-- Twitter: [@derrick14](https://twitter.com/DerrickHayle)
-- LinkedIn: [okongo derrick](https://www.linkedin.com/in/okongo-derrick-a0147622b/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
